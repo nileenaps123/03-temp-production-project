@@ -1,2 +1,2 @@
 main-01.txt
-hello world
+hello people
